@@ -1,0 +1,25 @@
+Mijn evaluatie van de afgelopen workshops:
+
+Tijdens de afgelopen workshops heb ik veel geleerd over Linux serverbeheer en database automatisering:
+
+Linux Webserver (LAMP):
+
+Ik heb geleerd hoe ik een Ubuntu omgeving moet inrichten als een webserver voor het hosten van PHP-applicaties.
+
+Ik heb een LAMP (of LEMP) omgeving opgezet en geleerd hoe ik poort-conflicten (zoals poort 80 en 3306) met programma's zoals WAMP of XAMPP kan herkennen, voorkomen en oplossen.
+
+Ik weet nu hoe ik de webserver moet starten en stoppen, en ik heb met succes een PHP project met een bijbehorende database in Linux gedraaid.
+
+Database Backups Automatiseren:
+
+Ik heb een script gemaakt dat automatisch een backup maakt van de database van mijn applicatie.
+
+Ik heb logica aan dit script toegevoegd zodat alleen de 3 meest recente backups bewaard blijven, en dat er absoluut geen oude backups verwijderd worden als een nieuwe backup mislukt.
+
+Ik heb dit proces succesvol geautomatiseerd zodat het script dagelijks uit zichzelf draait (bijvoorbeeld om 12:00).
+
+Tot slot heb ik me verdiept in de "good practices" rondom het veilig en praktisch bewaren van backups voor de poster-opdracht.
+
+Wat ik nog wil weten over Git:
+
+Wat ik nog graag zou willen leren over Git Commit en Push, is hoe ik een commit veilig ongedaan kan maken of terug kan draaien als ik per ongeluk de verkeerde bestanden naar de online repository heb gestuurd.
